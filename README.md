@@ -4,7 +4,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="../Rubenoti/assets/gif.gif" width="360px"/>
+<img align="right" alt="GIF" src="./assets/gif.gif" width="360px"/>
 
 ### 🧐 More About Me:
 
